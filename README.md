@@ -5,8 +5,10 @@
 
 ### 使用方法
 
-1. 首先请自行备份原版语言包 /lib/resources_en.jar 
+1. 请自行备份原版语言包 /lib/resources_en.jar 
 2. 用任意解压工具打开原版语言包 resources_en.jar 
 3. 复制本项目中resources_en_2cn/messages中的所有文件 
 4. 覆盖到打开的原版语言包中的messages文件夹中
 5. 保存后重启IDEA即可
+
+>PS：执行上述操作时请不要打开IDEA
