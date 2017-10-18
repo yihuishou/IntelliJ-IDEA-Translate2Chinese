@@ -15,4 +15,4 @@
 
 ### 使用方法（二）
 
-在/lib目录中放入[简体中文语言包]()即可
+在/lib目录中放入[简体中文语言包](https://github.com/yihuishou/IntelliJ-IDEA-Translate2Chinese/blob/master/build/resources_zh_CN.jar)即可
