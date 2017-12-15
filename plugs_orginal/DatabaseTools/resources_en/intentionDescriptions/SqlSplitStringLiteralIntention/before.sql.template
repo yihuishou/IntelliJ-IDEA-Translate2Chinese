@@ -1,0 +1,1 @@
+select <spot>'The quick brown fox jumps over the lazy dog'</spot> from table_name;

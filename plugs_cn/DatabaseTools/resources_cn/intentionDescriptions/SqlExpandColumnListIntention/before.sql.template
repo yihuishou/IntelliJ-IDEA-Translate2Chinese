@@ -1,0 +1,5 @@
+create table some_table (column_1 int,
+                         column_2 int,
+                         column_3 int,
+                         column_n int);
+select <spot>*</spot> from some_table;
