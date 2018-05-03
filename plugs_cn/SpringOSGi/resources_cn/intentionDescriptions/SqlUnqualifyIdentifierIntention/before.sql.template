@@ -1,0 +1,1 @@
+select <spot>`table_name`.`column`</spot> from `table_name`;
