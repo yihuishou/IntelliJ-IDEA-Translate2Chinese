@@ -1,1 +1,0 @@
-select json_foo(<spot>'{"a":"b"}'</spot>);
