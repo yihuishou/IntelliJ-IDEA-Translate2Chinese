@@ -3,7 +3,7 @@
 
 ## 本汉化补丁只适配于IntelliJ IDEA 2017.1.5对其他版本兼容性未知
 
-### 使用方法（一）
+### 使用方法
 
 1. 请自行备份原版语言包`/lib/resources_en.jar`
 2. 用任意解压工具打开原版语言包`resources_en.jar`
