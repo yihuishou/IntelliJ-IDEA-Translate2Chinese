@@ -1,0 +1,13 @@
+<idea-plugin>
+ <id>com.intellij.zh</id>
+ <version>202.404</version>
+ <idea-version since-build="202" until-build="202.*"/>
+ <name>Chinese (Simplified) Language Pack EAP</name>
+ <vendor>JetBrains</vendor>
+ <description><![CDATA[Adds Chinese as the IDE interface language.<br>It’s an EAP version, we’re making it better everyday. At the moment partial localization is available.<br>Your feedback is very much appreciated. You can submit it directly from the <a target="_blank" href="https://www.jetbrains.com/help/idea/getting-started.html#report-bug">IDE</a> or via <a target="_blank" href="https://youtrack.jetbrains.com/newIssue?project=IDEA&summary=Issue%20name%20(English%20or%20Chinese)&description=Describe%20your%20problem&c=Subsystem%20Localization.%20Chinese">YouTrack</a> either in English or Chinese.<br><br>添加中文作为 IDE 界面语言。<br>这是一个早期试用计划（EAP）版本，我们正在逐步完善当中。目前部分的本地化内容已经完成。<br>您的反馈至关重要。您可以直接通过 <a target="_blank" href="https://www.jetbrains.com/help/idea/getting-started.html#report-bug">IDE</a> 或者 <a target="_blank" href="https://youtrack.jetbrains.com/newIssue?project=IDEA&summary=Issue%20name%20(English%20or%20Chinese)&description=Describe%20your%20problem&c=Subsystem%20Localization.%20Chinese">YouTrack</a> 以中文或者英文的形式提交您的反馈。]]></description>
+ <change-notes><![CDATA[Introducing the IntelliJ IDEA Localization EAP for Chinese, Japanese, and Korean.<br><a target="_blank" href="https://blog.jetbrains.com/cn/2020/05/jetbrains-chinese/">您最喜欢的 JetBrains IDE 一直以来仅提供英语版本，现在将本地化为三种语言！</a>]]></change-notes>
+ <depends>com.intellij.modules.platform</depends>
+ <extensions defaultExtensionNs="com.intellij">
+   <languageBundle lang="zh"/>
+ </extensions>
+</idea-plugin>
