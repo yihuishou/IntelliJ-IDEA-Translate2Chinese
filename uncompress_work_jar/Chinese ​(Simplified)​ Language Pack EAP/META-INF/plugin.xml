@@ -1,6 +1,6 @@
 <idea-plugin>
  <id>com.intellij.zh</id>
- <version>201.15</version>
+ <version>201.15.1</version>
  <idea-version since-build="201.7223.36" until-build="201.*"/>
  <name>Chinese (Simplified) Language Pack EAP</name>
  <vendor>JetBrains</vendor>
